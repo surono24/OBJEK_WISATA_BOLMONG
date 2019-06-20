@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "wisata2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama": "Pantai Jiko", "Lokasi": "Bolaang Mongondow Timur", "Foto": "img\/jiko.jpg", "xcoord": 124.56551932213461, "ycoord": 0.61851233309324505 }, "geometry": { "type": "Point", "coordinates": [ 124.565519322134605, 0.618512333093245 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puncak Ambang", "Lokasi": "Kotamobagu", "Foto": "img\/ambang.jpg", "xcoord": 124.42164390849329, "ycoord": 0.74893098063105801 }, "geometry": { "type": "Point", "coordinates": [ 124.421643908493294, 0.748930980631058 ] } },
+{ "type": "Feature", "properties": { "Nama": "Bendungan Toraut", "Lokasi": "Bolaang Mongondow", "Foto": "img\/toraut.jpg", "xcoord": 123.90980994491549, "ycoord": 0.56836466912970596 }, "geometry": { "type": "Point", "coordinates": [ 123.909809944915494, 0.568364669129706 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pelabuhan Torosik", "Lokasi": "Bolaang Mongondow Selatan", "Foto": "img\/torosik.jpg", "xcoord": 124.2780570217917, "ycoord": 0.428480652163788 }, "geometry": { "type": "Point", "coordinates": [ 124.278057021791696, 0.428480652163788 ] } }
+]
+}

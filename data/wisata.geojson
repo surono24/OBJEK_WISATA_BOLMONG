@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "wisata",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama": "Pantai Jiko", "Lokasi": "Bolaang Mongondow Timur", "Foto": "img\/jiko.jpg" }, "geometry": { "type": "Point", "coordinates": [ 124.565519322134605, 0.618512333093245, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "Puncak Ambang", "Lokasi": "Kotamobagu", "Foto": "img\/ambang.jpg" }, "geometry": { "type": "Point", "coordinates": [ 124.421643908493294, 0.748930980631058, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "Bendungan Toraut", "Lokasi": "Bolaang Mongondow", "Foto": "img\/toraut.jpg" }, "geometry": { "type": "Point", "coordinates": [ 123.909809944915494, 0.568364669129706, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pelabuhan Torosik", "Lokasi": "Bolaang Mongondow Selatan", "Foto": "img\/torosik.jpg" }, "geometry": { "type": "Point", "coordinates": [ 124.278057021791696, 0.428480652163788, 0.0 ] } }
+]
+}
